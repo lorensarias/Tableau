@@ -15,4 +15,4 @@ The data for this project is the "Rolling sales data," available on NYC Departme
  
 ## Project Workflow 
 
-[NYCRealStateData](https://public.tableau.com/app/profile/lorena.arias/viz/Project1B-NYCRealStateData/Sheet1#1)](https://public.tableau.com/app/profile/lorena.arias/viz/Project1B-NYCRealStateData/Sheet1#1)
+[NYCRealStateData](https://public.tableau.com/app/profile/lorena.arias/viz/Project1B-NYCRealStateData/Sheet1#1)(https://public.tableau.com/app/profile/lorena.arias/viz/Project1B-NYCRealStateData/Sheet1#1)
