@@ -9,9 +9,9 @@ The data for this project is the "Rolling sales data," available on NYC Departme
 
 
 ## Tool Used: 
-**- Data Preparation:** Google Sheets 
-**- Data Analysis & Transformation :**   Google Sheets and Tableau 
-**- Data Visualization:** Tableau 
+- **Data Preparation:** Google Sheets 
+- **Data Analysis & Transformation :**   Google Sheets and Tableau 
+- **Data Visualization:** Tableau 
  
 ## Project Workflow 
 
